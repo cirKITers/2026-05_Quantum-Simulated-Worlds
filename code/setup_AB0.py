@@ -110,7 +110,7 @@ def show_multi_selection_3b():
         [
             ("Ich scrolle einfach weiter", False),  # Liste der möglichen Einträge
             ("Shift + Enter oder Strg + Enter", True),
-            ("Ich klicke auf das Häkchen im Bearbeiten-Menü der Zelle", True),
+            ("Ich klicke auf das Play-Symbol im oberen Menü", True),
             ("Ich lade das Notebook neu", False),
             ("Ich frage Gabriel oder Eileen", True),
         ],
