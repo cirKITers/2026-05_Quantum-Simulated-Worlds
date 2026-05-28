@@ -9,7 +9,7 @@ def setup_erfolg():
 def prompt_2a():
     """Fragt die Schüler nach ihren Beobachtungen zum GHZ-Zustand."""
     questions.prompt_answer(
-        "AB2-1a",
+        "AB3-2a",
         input_prompt="Deine Beobachtungen",
         input_description="Deine Beobachtungen zum GHZ-Zustand:",
     )
